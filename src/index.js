@@ -62,9 +62,6 @@ function columns (block) {
 
 
 
-
-
-
 function image (block) {
     return `
     <div class="row">
